@@ -1,0 +1,8 @@
+{
+  "name": "JARVIS Virtual Concierge",
+  "description": "A sophisticated AI-powered desktop voice assistant inspired by Iron Man's JARVIS, featuring real-time voice interaction, tool integration, and persistent memory.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
